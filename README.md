@@ -1,6 +1,6 @@
 # Real Time To do List
 
-Link:todoapp.uiwiz.xyz
+Link: todoapp.uiwiz.xyz
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1.
 
